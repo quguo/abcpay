@@ -1,0 +1,14 @@
+{
+    "name": "train860/abcpay",
+    "description": "abcpay",
+    "authors": [
+        {
+            "name": "Train",
+            "email": "train@hltou.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{"com\\abc\\":"src/com/abc"}
+    }
+}
